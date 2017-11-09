@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pz_cloud/Documents/WorkSpace/Android/Projects/Clover/BT_SSP/build/intermediates/res/merged/androidTest/debug/layout/device_name.xml",
+        "source": "/Users/pz_cloud/Documents/WorkSpace/Android/Projects/Clover/BT_SSP/build/intermediates/bundles/debug/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/pz_cloud/Documents/WorkSpace/Android/Projects/Clover/BT_SSP/build/intermediates/res/merged/androidTest/debug/layout/device_list.xml",
+        "source": "/Users/pz_cloud/Documents/WorkSpace/Android/Projects/Clover/BT_SSP/build/intermediates/bundles/debug/res/layout/device_list.xml"
+    }
+]
