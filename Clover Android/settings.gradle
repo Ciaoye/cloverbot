@@ -1,0 +1,2 @@
+include ':app', ':BT_SSP'
+include ':openCVLibrary310'
